@@ -11012,7 +11012,6 @@ collarid,hole_id,mfrom,mto,minterval,au ppm,rockcode
 188,YNDD002,245.35,246.4,1.05,0.24,Ca Carbonate
 188,YNDD002,246.4,247.4,1,1.36,Carbonate Volcanic
 188,YNDD002,247.4,248.7,1.3,0.14,Ca Carbonate
-188,YNDD002,248.7,249.7,1,0.06,Ca Carbonate
 188,YNDD002,248.7,249.7,1,0.23,Ca Carbonate
 188,YNDD002,249.7,251.88,2.18,0.09,Ca Carbonate
 188,YNDD002,251.88,253,1.12,0.61,Carbonate Volcanic
@@ -58831,4 +58830,3 @@ collarid,hole_id,mfrom,mto,minterval,au ppm,rockcode
 730,ZKY_9A04,355.75,357.25,2,0.01,
 730,ZKY_9A04,357.25,358.8,2,0.01,
 730,ZKY_9A04,359,360,1,0.04,
-,ROM,,,,1.15,
